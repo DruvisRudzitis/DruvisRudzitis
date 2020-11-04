@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning PHP, mySQL, HTML & CSS.
 
-📫 Reach me at [Linkedin](https://www.linkedin.com/in/druvisrudzitis/), [Gmail](druvisrudzitis@gmail)
+📫 Reach me at [Linkedin](https://www.linkedin.com/in/druvisrudzitis/) and [Gmail](druvisrudzitis@gmail).
 
 <!--
 **DruvisRudzitis/DruvisRudzitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
