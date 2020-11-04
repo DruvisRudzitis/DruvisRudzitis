@@ -1,5 +1,4 @@
-
-#I'm Druvis <h1> tag
+# I'm Druvis <h1> 
 
 🌱 I’m currently learning PHP, mySQL, HTML & CSS.
 
