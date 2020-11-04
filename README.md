@@ -1,4 +1,9 @@
-### Hi there 👋
+
+#I'm Druvis <h1> tag
+
+🌱 I’m currently learning PHP, mySQL, HTML & CSS.
+
+📫 How to reach me at [Linkedin](https://www.linkedin.com/in/druvisrudzitis/), [Gmail](druvisrudzitis@gmail)
 
 <!--
 **DruvisRudzitis/DruvisRudzitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
